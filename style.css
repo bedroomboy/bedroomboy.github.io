@@ -1,0 +1,36 @@
+html {
+    background-color: rgb(41, 38, 38);
+    color: rgb(210, 224, 228);
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    color: rgb(210, 224, 228);
+    font-size: 70px;
+    font-weight: 300;
+    margin: 0;
+    padding: 20px 0;
+    text-align: center;
+    text-shadow: 1px 1px 2px grey;
+}
+
+body {
+    border: 1px solid rgb(210, 224, 228);
+    border-radius: 60px;
+    font-size: 17px;
+    letter-spacing: 1.5px;
+    line-height: 2;
+    margin: 30px auto;
+    padding: 0 20px 20px 20px;
+    width: 900px;
+}
+
+img[src] {
+    display: block;
+    margin: 30px auto;
+    border-radius: 60px;
+}
+
+a:hover {
+    color: brown;
+}
